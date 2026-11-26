@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" fill="none">
+  <rect width="1280" height="320" fill="#000000"/>
+  <rect x="0" y="314" width="1280" height="6" fill="#0050EF"/>
+  <g transform="translate(88, 92)">
+    <rect x="0" y="0" width="60" height="60" fill="#0050EF"/>
+    <rect x="70" y="0" width="60" height="60" fill="#FFFFFF"/>
+    <rect x="0" y="70" width="60" height="60" fill="#FFFFFF"/>
+    <rect x="70" y="70" width="60" height="60" fill="#1F1F1F"/>
+  </g>
+  <text x="268" y="172" fill="#FFFFFF" font-family="Segoe UI, Selawik, Helvetica Neue, Arial, sans-serif" font-size="78" font-weight="300" letter-spacing="-1.5">TesseraOS</text>
+  <text x="272" y="216" fill="#888888" font-family="Segoe UI, Selawik, Helvetica Neue, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="4">ANDROID 16  ·  LINEAGEOS 23.2  ·  METRO INTERFACE</text>
+</svg>
